@@ -34,4 +34,5 @@ One of my hobbies is deploying Minecraft game servers.
 ![Aiogram](https://img.shields.io/badge/aiogram-191724?style=for-the-badge&logo=telegram)
 
 ### Contacts
-[![Static Badge](https://img.shields.io/badge/telegram-191724?style=for-the-badge&logo=telegram)](https://t.me/aiba_Ko)
+[![Telegram](https://img.shields.io/badge/Telegram-191724?style=for-the-badge&logo=telegram)](https://t.me/aiba_Ko)
+[![Gmail](https://img.shields.io/badge/Gmail-191724?style=for-the-badge&logo=gmail)](mailto:aibekko71@gmail.com)
