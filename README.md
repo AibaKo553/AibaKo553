@@ -2,7 +2,7 @@
   <img src="/img/wallpaper.png" alt="Wallpaper" width="100%">
 </p>
 
-# <p align="center">Hi, this is AibaKo!</p>
+# <p align="center">AibaKo</p>
 
 ## About me
 I’m 19 years old, a backend developer, and I create Telegram bots.  
