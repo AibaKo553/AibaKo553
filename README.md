@@ -4,10 +4,8 @@
 
 # <p align="center">AibaKo</p>
 
-## About me
-I’m 19 years old, a backend developer, and I create Telegram bots.  
-I’m also interested in various operating systems, primarily Linux-based ones.  
-One of my hobbies is deploying Minecraft game servers.
+## User
+AibaKo
 
 ### Experience in systems
 ![Fedora](https://img.shields.io/badge/fedora-191724?style=for-the-badge&logo=fedora)
