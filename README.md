@@ -4,9 +4,9 @@
 
 # <p align="center">AibaKo</p>
 ### Experience in systems
+![NixOS](https://img.shields.io/badge/nixos-191724?style=for-the-badge&logo=nixos)
 ![Fedora](https://img.shields.io/badge/fedora-191724?style=for-the-badge&logo=fedora)
 ![Arch](https://img.shields.io/badge/arch-191724?style=for-the-badge&logo=archlinux)
-![NixOS](https://img.shields.io/badge/nixos-191724?style=for-the-badge&logo=nixos)
 ![Debian](https://img.shields.io/badge/debian-191724?style=for-the-badge&logo=debian)
 ![macOS](https://img.shields.io/badge/macos-191724?style=for-the-badge&logo=macOS)
 
