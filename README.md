@@ -3,10 +3,6 @@
 </p>
 
 # <p align="center">AibaKo</p>
-
-## User
-AibaKo
-
 ### Experience in systems
 ![Fedora](https://img.shields.io/badge/fedora-191724?style=for-the-badge&logo=fedora)
 ![Arch](https://img.shields.io/badge/arch-191724?style=for-the-badge&logo=archlinux)
