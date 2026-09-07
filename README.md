@@ -13,7 +13,6 @@
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-191724?style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/bash-191724?style=for-the-badge&logo=gnubash)
-![Java](https://img.shields.io/badge/Java-191724?style=for-the-badge&logo=openjdk)
 
 ### Technologies
 ![Git](https://img.shields.io/badge/Git-191724?style=for-the-badge&logo=git)
